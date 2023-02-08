@@ -17,7 +17,7 @@ def zeta(x, y):
 # Input do usuário e configurações do gráfico.
 def chart(x):
     try:
-        value = int(input('Sendo a função zeta de Riemann definida como ζ(1/2 + it), insira um valor máximo para "t": '))
+        value = int(input('Sendo a função zeta de Riemann definida como ζ(1/2 + it), insira um valor máximo inteiro para "t": '))
         print("Calculando e gerando gráfico...")
 
         reals = []
