@@ -13,3 +13,6 @@ Além disso, os seus zeros resultantes, com exceção dos chamados “zeros triv
 $$\zeta(\dfrac{1}{2}+it)$$
 
 Nesse programa feito em Python, você conseguirá observar toda a distribuição dos zeros de Riemann em um gráfico desenvolvido através da biblioteca Matplotlib. Basta inserir um valor máximo inteiro para “t” que o backend já começará a realizar todos os cálculos necessários para plotar a representação. Quem sabe você até encontre no meio dos dados algum padrão que ajude outros estudiosos a confirmar a hipótese?
+
+![riemann-capture](https://github.com/MarlonDeOliveiraMeth/RiemannHypothesis/assets/82294838/3304993d-97d2-4472-b84a-219e1736cdcf)
+
