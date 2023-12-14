@@ -1,4 +1,4 @@
-# A hipótese de Riemann: uma representação gráfica
+# Uma representação gráfica da hipótese de Riemann
 
 Proposta pelo matemático alemão Bernhard Riemann em 1859, a hipótese de Riemann é provavelmente uma das mais famosas e instigantes conjecturas matemáticas do mundo. Ela é uma dos sete problemas do milênio cuja resolução seria premiada pelo Instituto Clay com cerca de um milhão de dólares.
 
